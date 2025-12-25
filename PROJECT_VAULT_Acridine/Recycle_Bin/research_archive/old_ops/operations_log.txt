@@ -1,0 +1,56 @@
+    1  python init_hq.py
+    2  cd arcidine_project
+    3  dir
+    4  cd acridine_project
+    5  dir
+    6  logs
+    7  cd logs
+    8  status.txt
+    9  cd status.txt
+   10  dir
+   11  windowscmd
+   12  ls
+   13  cat logs/status.txt
+   14  exit() ls
+   15  cd acridine_project
+   16  exit
+   17  cd ~/acridine_project/scripts
+   18  conda activate my-rdkit-env
+   19  conda info --envs
+   20  conda env list
+   21  conda create -n chem -c conda-forge
+   22  rdkit python=3.10 pandas -y
+   23  conda activate chem
+   24  ls
+   25  python -c "import sys;
+sys.path.append('.'); import
+chem_tools; print('\n>>> DIAGNOSTIC
+COMPLETE: CHEM_TOOLS v6.0 IS LIVE.')
+"
+   26  python -c "import sys;
+sys.path.append('.'); import
+chem_tools; print('\n>>> DIAGNOSTIC
+COMPLETE: CHEM_TOOLS v6.0 IS LIVE.')"
+   27  conda activate chem
+   28  python -c "import sys;
+sys.path.append( ' . ' ); import
+chem_tools; print('\n>>> DIAGNOSTIC COMPLETE: CHEM_TOOLS v6.0 IS 
+LIVE.')"
+   29  python -c "import sys; sys.path.append('.'); import chem_tools; print 
+("
+   30  python -c "import sys; sys.path.append('.'); import chem_tools; print('\n>>> DIAGNOSTIC COMPLETE: CHEM_TOOLS v6.0 IS LIVE.')"
+   31  python machine_gun.py
+   32  conda install python -y
+   33  python -c "import sys; sys.path.append('.'); import chem_tools; print('\n>>> DIAGNOSTIC COMPLETE: CHEM_TOOLS v6.0 IS LIVE.')"
+   34  conda install -c conda-forge rdkit -y
+   35  python -c "import rdkit; print('>>> RDKIT SECURED')"
+   36  python machine_gun.py
+   37  find ~ -name "machine_gun.py"
+   38  cd /home63235aa8-611d-4ec2-83e9-d41f8ba108d5
+   39  cd /home/63235aa8-611d-4ec2-83e9-d41f8ba108d5
+   40  ls
+   41  python machine_gun.py
+   42  cd /home63235aa8-611d-4ec2-83e9-d41f8ba108d5/acridine_project/scripts
+   43  ls
+   44  python machine_gun.py
+   45  history > operations_log.txt

@@ -1,0 +1,2 @@
+Date,Name,SMILES,Origin,QED_Score,LogP,Notes
+2025-12-25 17:17,Candidate_Alpha_79,NCCOc1ccc2ncccc2c1,AI_Derivatizer_v3,0.7949,1.5723,Amino-ethyl tail added to Acridine core. Improved solubility significantly.
